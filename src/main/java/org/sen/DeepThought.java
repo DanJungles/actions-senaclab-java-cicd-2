@@ -4,6 +4,7 @@ import java.util.concurrent.TimeUnit;
 
 /**
  * This class represents the Deep Thought computer.
+ * a
  */
 public final class DeepThought {
     /**
